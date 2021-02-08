@@ -1,0 +1,24 @@
+Selection method: ILFS
+DT Acc: 83.48
+SVM Acc: 84.81
+
+Selection method: mrmr
+DT Acc: 84.48
+SVM Acc: 87.03
+
+Selection method: relieff
+DT Acc: 84.70
+SVM Acc: 86.59
+
+Selection method: mutinffs
+DT Acc: 84.15
+SVM Acc: 84.81
+
+Selection method: fsv
+DT Acc: 83.26
+SVM Acc: 84.81
+
+Selection method: laplacian
+DT Acc: 81.37
+SVM Acc: 84.81
+
