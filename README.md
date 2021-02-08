@@ -13,3 +13,6 @@ Followed by the feature ranking, various classification techniques are applied i
 - K-fold classifiers
 
 Within the classification, display ranking is used to display the rank of the features
+
+### Main_fslib
+This file loops through all of the feature ranking techniques and tests it with a DT and SVM classifier. It saves the results in a text file.
